@@ -19,7 +19,7 @@ body {
 }
 
 .navbar a {
-  font-weight: 200;
+  font-weight: 400;
   color: white;
   padding: 14px 16px;
   text-decoration: none;
@@ -34,7 +34,7 @@ body {
 
 /*JUMBOTRON*/
 .jumbotron {
-  height: 50vh; /*height to 100% of view height*/
+  height: 100vh; /*height to 100% of view height*/
   background: #31b0d5; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 
@@ -55,7 +55,7 @@ body {
   /*YOUR NAME*/
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 3em;
+  font-size: 1em;
   margin-bottom: 0;
 }
 
