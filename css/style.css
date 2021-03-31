@@ -34,20 +34,10 @@ body {
 
 /*JUMBOTRON*/
 .jumbotron {
- background: url(/workspace/MattRichardson/images/abs.jpg) fixed center no-repeat;
+ background: url("/workspace/MattRichardson/images/abs.jpg") fixed center no-repeat;
  background-size: cover;
-
- /* height: 80vh; /*height to 100% of view height*/
-  /*background-image: url(‘abs.jpg’); /*background color to blue*/
-  /*margin-bottom: 0; /*no bottom margin*/
-
- /*background-image: url(‘abs.JPG’);
- background-size: cover;
- background-repeat: no-repeat;
-
-
-  display: flex;
-  flex-direction: column;*/
+display: flex;
+flex-direction: column;
 }
 
 .jumbotron-text {
