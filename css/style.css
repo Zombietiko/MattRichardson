@@ -10,7 +10,8 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: transparent;
+  background-color: #212996;
+  /*background-color: transparent;*/
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -209,7 +210,7 @@ img {
 
 /*CONTACT*/
 .blue {
-  background: #3498db;
+  background: url('../images/abs.jpg')no-repeat bottom right fixed;;
   text-align: center;
 }
 
