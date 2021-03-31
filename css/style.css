@@ -36,8 +36,7 @@ body {
 .jumbotron {
  background: url("/workspace/MattRichardson/images/abs.jpg") fixed center no-repeat;
  background-size: cover;
-display: flex;
-flex-direction: column;
+
 }
 
 .jumbotron-text {
