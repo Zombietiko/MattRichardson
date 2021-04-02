@@ -210,7 +210,7 @@ img {
 
 /*CONTACT*/
 .blue {
-  background: url('../images/abs.jpg')no-repeat center;
+  background: #3498db;
   background-size: cover;
   text-align: center;
 }
