@@ -35,7 +35,7 @@ body {
 
 /*JUMBOTRON*/
 .jumbotron {
- background: url('../images/abs.jpg')no-repeat bottom right fixed;
+ background: url('../images/logo.png')no-repeat bottom right fixed;
  /*background: url("/workspace/MattRichardson/images/abs.jpg") fixed center no-repeat;*/
  background-size: cover;
 
